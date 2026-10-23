@@ -13,6 +13,9 @@ This Python project analyzes a dataset of best-selling books from Amazon. It pro
 5. **Book Categories**: The project categorizes books into different groups based on their price range and rating.
 6. **Top Books by Rating and Reviews**: The 10 most expensive, cheapest, highest-rated, most reviewed, and least reviewed books are identified and exported to CSV files.
 
+![Most Expensive Books](images/Most_Expensive.png)
+![Least Rating](images/lowest_rating.png)
+
 ## Purpose of Important Files
 - **BestSellingBooks.py**: This file contains the main script that performs all the data analysis and generates the reports.
 - **bestsellers.csv**: The dataset used for analysis, which contains information about best-selling books including title, author, publication year, user rating, and price.
