@@ -1,4 +1,4 @@
-# BestSellingBooks.py README
+# BestSellingBooks README
 
 ## What the Project Does
 This Python project analyzes a dataset of best-selling books from Amazon. It processes the data to extract valuable insights and generates various reports and summaries. The primary purpose of this project is to provide users with an understanding of the most popular books in different genres, their price ranges, ratings, and review counts.
